@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "redirectme",
+  "version": "1.0.0",
+  "description": "A redirect script powered by Cloudflare Workers.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Trikolon <git@pbz.im>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

@@ -1,0 +1,7 @@
+name = "redirectme"
+type = "javascript"
+account_id = "28f1e029a998697424bf651aa210243f"
+workers_dev = false
+route = "l.pbz.im/*"
+zone_id = "f77a628707f928cbc90153f171b52580"
+kv_namespaces = [  { binding = "REDIRECTS", id = "bb7ab6371c564e9eb5fb389c4f187c58", preview_id = "59a7b875d04e426c9123292880f34c93" } ]
