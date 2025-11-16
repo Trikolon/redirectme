@@ -8,7 +8,7 @@
   "author": "Trikolon <git@pbz.im>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.14.0",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1"
   }
